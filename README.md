@@ -9,7 +9,7 @@ This is not a curricula for computer science / software engineering degree but t
 | Object Oriented Java Programming: Data Structures and Beyond | UC San Diego | 5 Courses | 6+6+6+4+6 | 28,785 | https://www.coursera.org/specializations/java-object-oriented |
 | Parallel, Concurrent, and Distributed Programming in Java | Rice University | 3 Courses | 7+7+7 | 6,825 | https://www.coursera.org/specializations/pcdp |
 | Data Systems | Arizona State University | 5 Courses | 4+4+3+3+3 | 2,387  | https://www.coursera.org/specializations/data-systems |
-| Introduction to Discrete Mathematics for Computer Science | University of California San Diego | 5 Courses | 6+6+5+4+3 | 12,469 | https://www.coursera.org/specializations/discrete-mathematics |
+| Introduction to Discrete Mathematics for Computer Science | UC San Diego | 5 Courses | 6+6+5+4+3 | 12,469 | https://www.coursera.org/specializations/discrete-mathematics |
 
 ## Tier 2: Architect
 
