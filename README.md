@@ -5,8 +5,8 @@ This is not a curricula for computer science / software engineering degree but t
 
 | Specialization Name | Offered By | Number of Courses | Durations (in weeks) | Enrolled | Link |
 | ------------------- | ---------- | ----------------- | -------------------- | -------- | -----|
-| Data Structures and Algorithms (see UCSanDiegoX's MicroMaster below) | University of California San Diego | 6 Courses | 5+4+5+4+4+3 | 67,097 | https://www.coursera.org/specializations/data-structures-algorithms |
-| Object Oriented Java Programming: Data Structures and Beyond | UC Sandiego | 5 Courses | 6+6+6+4+6 | 28,785 | https://www.coursera.org/specializations/java-object-oriented |
+| Data Structures and Algorithms (see UCSanDiegoX's MicroMaster below) | UC San Diego | 6 Courses | 5+4+5+4+4+3 | 67,097 | https://www.coursera.org/specializations/data-structures-algorithms |
+| Object Oriented Java Programming: Data Structures and Beyond | UC San Diego | 5 Courses | 6+6+6+4+6 | 28,785 | https://www.coursera.org/specializations/java-object-oriented |
 | Parallel, Concurrent, and Distributed Programming in Java | Rice University | 3 Courses | 7+7+7 | 6,825 | https://www.coursera.org/specializations/pcdp |
 | Data Systems | Arizona State University | 5 Courses | 4+4+3+3+3 | 2,387  | https://www.coursera.org/specializations/data-systems |
 | Introduction to Discrete Mathematics for Computer Science | University of California San Diego | 5 Courses | 6+6+5+4+3 | 12,469 | https://www.coursera.org/specializations/discrete-mathematics |
