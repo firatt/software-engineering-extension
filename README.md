@@ -33,7 +33,7 @@ This is not a curricula for computer science / software engineering degree but t
 | Introduction to Applied Cryptography | University of Colorado System | 4 Courses | 3+4+5+4 | NA | https://www.coursera.org/specializations/introduction-applied-cryptography |
 | Blockchain | The State University of New York, University at Buffalo | 4 Courses | 4+4+4+4 | 15,036 | https://www.coursera.org/specializations/blockchain | 
 
-### Other Topics (To be updated)
+## Other Topics (To be updated)
 
 ### Nice to konw:
 - Information Theory
